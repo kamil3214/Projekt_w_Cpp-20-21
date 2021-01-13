@@ -5,7 +5,8 @@ Zadaniem aplikacji jest wizualizacja przebiegu pandemii wirusa SARS-CoV-2 na map
 świata. Korzystając z aplikacji użytkownik będzie mógł zobaczyć jak wyglądała i rozwijała się
 sytuacja na świecie.
 
-Harmonogram pracy:\n
+Harmonogram pracy:
+
 Do 03.11.2020:
 • Przygotowanie potrzebnych materiałów (podzielenie mapy na poszczególne państwa w
 programie graficznym).
